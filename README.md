@@ -1,3 +1,5 @@
 # Password_Manager
 
-Application to save e-mails and passwords of websites 
+
+
+A Password Manager that allows users to store, generate and manage their passwords for local applications.
